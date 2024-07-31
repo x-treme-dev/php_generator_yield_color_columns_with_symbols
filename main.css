@@ -1,0 +1,20 @@
+body, html{
+	margin:0;
+	padding:0;
+}
+body{
+    background-color: #abb2b9;
+    background-size: 100vw 100vh;
+    background-repeat: 0;
+	display:flex;
+	justify-content: space-between;
+}
+
+.columns{
+	width:4vw;
+	display:flex;
+	background: green;
+	justify-content:space-around;
+	font-size: 1.5em;
+    
+ }
